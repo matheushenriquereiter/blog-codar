@@ -29,4 +29,4 @@ The Blog Codar is a project that informs you of everything you need to know abou
 
 ## :memo: License
 
-This project is under MIT license. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under MIT license. See the [LICENSE](LICENSE.md) file for more details.
